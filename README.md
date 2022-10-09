@@ -1,2 +1,2 @@
 # babylonjs-boilerplate
-A boilerplate project for BabylonJS using Webpack and Visual Studio 2022
+A boilerplate project for BabylonJS using Node, Webpack and Visual Studio
